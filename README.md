@@ -9,7 +9,7 @@ Create Ai Editor Like codepilot github or Cursor
 
 **User**
 
-what is you prompt just for learning
+prompt Ai Cursor just for learning , i hope you will learning
 
 ---
 
